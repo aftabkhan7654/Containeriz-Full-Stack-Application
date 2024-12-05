@@ -7,4 +7,4 @@ Steps to run this project
 3. build the docker images
 4. run the shell script
 
-For more details read the documentation or also watch the video
+For more details read the documentation or watch the video
